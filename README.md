@@ -1,4 +1,12 @@
-### Hi there 👋
+### I am currently working on the pre-work.
+### I am currently learning Git.
+### I'm looking to collaborate on all of my current projects.
+### I'm looking for help with programming loops
+### Ask me about how I decided to come back to programming.
+### you can reach me at duncanclanof4@gmail.com
+### my pronouns are he/him
+### Fun Fact:  I have been nominated for an Emmy!
+
 
 <!--
 **KDuncanof4/KDuncanof4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
