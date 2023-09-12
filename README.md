@@ -1,7 +1,4 @@
-### I am currently working on the pre-work for Tech Elevator.
-### I am currently learning Git.
-### I'm looking to collaborate on all of my current projects.
-### I'm looking for help with programming loops
+### I am currently working for Sensource Inc.
 ### Ask me about how I decided to come back to programming.
 ### you can reach me at duncanclanof4@gmail.com
 ### my pronouns are he/him
