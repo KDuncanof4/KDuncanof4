@@ -1,4 +1,4 @@
-### I am currently working for Sensource Inc.
+### I am currently looking for work.
 ### Ask me about how I decided to come back to programming.
 ### you can reach me at duncanclanof4@gmail.com
 ### my pronouns are he/him
